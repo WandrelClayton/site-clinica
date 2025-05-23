@@ -535,7 +535,7 @@ strong {
   text-align: center;
 }
 
-.hero-section::after {
+/* .hero-section::after {
   background-color: rgba(0, 0, 0, 0.65);
   border-radius: var(--border-radius-medium);
   content: "";
@@ -546,7 +546,8 @@ strong {
   width: 250px;
   height: 350px;
   pointer-events: none;
-}
+} */
+
 
 @media screen and (min-width: 991px) {
   .hero-section {
